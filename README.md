@@ -1,7 +1,5 @@
 # Репозиторий для лабораторных работ
 
-##  Список лабораторных работ
-
 -  [Лабораторная работа №1](https://teoxxid.github.io/labs_web/lr_1/)
 -  [Лабораторная работа №2](https://teoxxid.github.io/labs_web/lr_2/)
 -  [Лабораторная работа №3](https://teoxxid.github.io/labs_web/lr_3/)
